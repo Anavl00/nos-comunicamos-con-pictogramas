@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507193655B232NS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605071936555IQZ5V</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Nos comunicamos con pictogramas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Valenzuela López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA sobre emociones y pictogramas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778174146528</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movpbpwv-td70rwlxx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpwv-td70rwlxx</odePageId>
+      <odeBlockId>block-1778088997166-moepjfsst</odeBlockId>
+      <blockName>Nos comunicamos con pictogramas: emociones y rutinas en el aula específica.
+Situación de Aprendizaje.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpwv-td70rwlxx</odePageId>
+          <odeBlockId>block-1778088997166-moepjfsst</odeBlockId>
+          <odeIdeviceId>idevice-1778088997158-5ctcm475x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><img src="{{context_path}}/content/resources/semaforo emociones.png" width="1280" height="1280" alt="" /></strong><strong></strong></p>
+<p style="text-align: justify;">Este proyecto está dirigido al alumnado del aula específica y tiene como finalidad favorecer la identificación y expresión de emociones mediante el uso de pictogramas, apoyos visuales y herramientas digitales.</p>
+<p style="text-align: justify;">A través de actividades interactivas, recursos visuales y dinámicas adaptadas, el alumnado desarrollará habilidades de comunicación, interacción social y competencia digital en un entorno accesible e inclusivo.</p>
+<p style="text-align: justify;">Durante el proyecto utilizaremos recursos como ARASAAC, Canva, Wordwall, LearningApps y presentaciones visuales para facilitar el aprendizaje significativo y la participación activa del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088997158-5ctcm475x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong><img src=\"{{context_path}}/content/resources/semaforo emociones.png\" width=\"1280\" height=\"1280\" alt=\"\" /></strong><strong></strong></p>\n<p style=\"text-align: justify;\">Este proyecto está dirigido al alumnado del aula específica y tiene como finalidad favorecer la identificación y expresión de emociones mediante el uso de pictogramas, apoyos visuales y herramientas digitales.</p>\n<p style=\"text-align: justify;\">A través de actividades interactivas, recursos visuales y dinámicas adaptadas, el alumnado desarrollará habilidades de comunicación, interacción social y competencia digital en un entorno accesible e inclusivo.</p>\n<p style=\"text-align: justify;\">Durante el proyecto utilizaremos recursos como ARASAAC, Canva, Wordwall, LearningApps y presentaciones visuales para facilitar el aprendizaje significativo y la participación activa del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpwy-7n9p3v9kh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpwy-7n9p3v9kh</odePageId>
+      <odeBlockId>block-1778089464234-w5po8z13m</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpwy-7n9p3v9kh</odePageId>
+          <odeBlockId>block-1778089464234-w5po8z13m</odeBlockId>
+          <odeIdeviceId>idevice-1778089464222-q2f2qa8ov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje trabajaremos el reconocimiento y la expresión de emociones mediante el uso de pictogramas y herramientas digitales adaptadas.</p>
+<p>El alumnado aprenderá a:</p>
+<ul>
+<li>Identificar emociones básicas.</li>
+<li>Utilizar pictogramas para comunicarse.</li>
+<li>Participar en actividades digitales.</li>
+<li>Expresar emociones mediante recursos visuales.</li>
+<li>Mejorar sus habilidades de comunicación e interacción social.</li>
+</ul>
+<p>El proyecto se desarrollará mediante actividades manipulativas, visuales y digitales adaptadas a las necesidades del alumnado del aula específica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089464222-q2f2qa8ov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje trabajaremos el reconocimiento y la expresión de emociones mediante el uso de pictogramas y herramientas digitales adaptadas.</p>\n<p>El alumnado aprenderá a:</p>\n<ul>\n<li>Identificar emociones básicas.</li>\n<li>Utilizar pictogramas para comunicarse.</li>\n<li>Participar en actividades digitales.</li>\n<li>Expresar emociones mediante recursos visuales.</li>\n<li>Mejorar sus habilidades de comunicación e interacción social.</li>\n</ul>\n<p>El proyecto se desarrollará mediante actividades manipulativas, visuales y digitales adaptadas a las necesidades del alumnado del aula específica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpwy-p1j8yic5y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodología</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpwy-p1j8yic5y</odePageId>
+      <odeBlockId>block-1778089569840-4sk0xze28</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpwy-p1j8yic5y</odePageId>
+          <odeBlockId>block-1778089569840-4sk0xze28</odeBlockId>
+          <odeIdeviceId>idevice-1778089569834-u92e9kofx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La metodología utilizada será activa, visual e inclusiva, favoreciendo la participación del alumnado mediante apoyos visuales y herramientas digitales accesibles.</p>
+<p>Se aplicarán principios del Diseño Universal para el Aprendizaje (DUA):</p>
+<ul>
+<li>Múltiples formas de representación.</li>
+<li>Múltiples formas de acción y expresión.</li>
+<li>Múltiples formas de implicación.<br /></li>
+</ul>
+<p>Además, se respetarán los diferentes ritmos de aprendizaje y se facilitará la accesibilidad cognitiva mediante el uso de pictogramas, imágenes y apoyos visuales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089569834-u92e9kofx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La metodología utilizada será activa, visual e inclusiva, favoreciendo la participación del alumnado mediante apoyos visuales y herramientas digitales accesibles.</p>\n<p>Se aplicarán principios del Diseño Universal para el Aprendizaje (DUA):</p>\n<ul>\n<li>Múltiples formas de representación.</li>\n<li>Múltiples formas de acción y expresión.</li>\n<li>Múltiples formas de implicación.<br /></li>\n</ul>\n<p>Además, se respetarán los diferentes ritmos de aprendizaje y se facilitará la accesibilidad cognitiva mediante el uso de pictogramas, imágenes y apoyos visuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpwz-j44gnyvnt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos e identidad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos e identidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos e identidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpwz-j44gnyvnt</odePageId>
+      <odeBlockId>block-1778089657320-1k02tdjn8</odeBlockId>
+      <blockName>Uso seguro de la tecnología en nuestra clase.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpwz-j44gnyvnt</odePageId>
+          <odeBlockId>block-1778089657320-1k02tdjn8</odeBlockId>
+          <odeIdeviceId>idevice-1778089657315-th6cg368q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/INFOGRAFÍA.pdf" alt="" width="NaN" height="NaN" />En<img src="{{context_path}}/content/resources/Captura de pantalla (105).png" alt="" width="356" height="862" /> este proyecto aprenderemos a utilizar la tecnología de forma segura y responsable.</p>
+<p>Trabajaremos aspectos relacionados con:</p>
+<ul>
+<li>La protección de datos personales.</li>
+<li>El respeto en internet.</li>
+<li>La identidad digital.</li>
+<li>La seguridad online.</li>
+<li>El uso responsable de dispositivos digitales.<br /></li>
+</ul>
+<p>El alumnado aprenderá a proteger su información personal y a mantener una actitud positiva y respetuosa en los entornos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089657315-th6cg368q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" />En<img src=\"{{context_path}}/content/resources/Captura de pantalla (105).png\" alt=\"\" width=\"356\" height=\"862\" /> este proyecto aprenderemos a utilizar la tecnología de forma segura y responsable.</p>\n<p>Trabajaremos aspectos relacionados con:</p>\n<ul>\n<li>La protección de datos personales.</li>\n<li>El respeto en internet.</li>\n<li>La identidad digital.</li>\n<li>La seguridad online.</li>\n<li>El uso responsable de dispositivos digitales.<br /></li>\n</ul>\n<p>El alumnado aprenderá a proteger su información personal y a mantener una actitud positiva y respetuosa en los entornos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx0-3uln55cu4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx0-3uln55cu4</odePageId>
+      <odeBlockId>block-1778090044768-8uizslorp</odeBlockId>
+      <blockName>Producto final del alumnado.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx0-3uln55cu4</odePageId>
+          <odeBlockId>block-1778090044768-8uizslorp</odeBlockId>
+          <odeIdeviceId>idevice-1778090044766-8t8b4n1kl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado elaborará una presentación visual sobre emociones utilizando pictogramas, imágenes y herramientas digitales.</p>
+<p>Cada grupo creará un recurso visual sencillo donde representará diferentes emociones mediante:</p>
+<ul>
+<li>Pictogramas ARASAAC.</li>
+<li>Imágenes.</li>
+<li>Colores.</li>
+<li>Presentaciones digitales.<br /></li>
+</ul>
+<p>Posteriormente, el alumnado presentará su trabajo al resto de la clase favoreciendo la comunicación y la expresión emocional.</p>
+<p><br /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?utm_content=DAHDcyAD5BA&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Presentación de Proyecto Creativo Retro Rosa</a> de Avallop2106</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778090044766-8t8b4n1kl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado elaborará una presentación visual sobre emociones utilizando pictogramas, imágenes y herramientas digitales.</p>\n<p>Cada grupo creará un recurso visual sencillo donde representará diferentes emociones mediante:</p>\n<ul>\n<li>Pictogramas ARASAAC.</li>\n<li>Imágenes.</li>\n<li>Colores.</li>\n<li>Presentaciones digitales.<br /></li>\n</ul>\n<p>Posteriormente, el alumnado presentará su trabajo al resto de la clase favoreciendo la comunicación y la expresión emocional.</p>\n<p><br /></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?utm_content=DAHDcyAD5BA&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Presentación de Proyecto Creativo Retro Rosa</a> de Avallop2106</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx0-iq4f59gco</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx0-iq4f59gco</odePageId>
+      <odeBlockId>block-1778104387357-09q99x6kf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx0-iq4f59gco</odePageId>
+          <odeBlockId>block-1778104387357-09q99x6kf</odeBlockId>
+          <odeIdeviceId>idevice-1778104387352-71723noub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104387352-71723noub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx0-lggq3ewqg</odePageId>
+  <odeParentPageId>page-movpbpx0-iq4f59gco</odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx0-lggq3ewqg</odePageId>
+      <odeBlockId>block-1778104454802-306bv9ix6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx0-lggq3ewqg</odePageId>
+          <odeBlockId>block-1778104454802-306bv9ix6</odeBlockId>
+          <odeIdeviceId>idevice-1778104454797-ol25yur0q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de este proyecto se utilizarán diferentes recursos digitales adaptados al alumnado del aula específica.</p>
+<p>Los materiales seleccionados facilitan:</p>
+<ul>
+<li>La accesibilidad.</li>
+<li>La comunicación visual.</li>
+<li>El aprendizaje manipulativo.</li>
+<li>La participación activa.<br /></li>
+</ul>
+<p>Se utilizarán recursos como:</p>
+<ul>
+<li>ARASAAC.</li>
+<li>Vídeos educativos;</li>
+<li>Wordwall.</li>
+<li>LearningApps.</li>
+<li>Canva.</li>
+<li>Padlet.</li>
+</ul>
+<div class="padlet-embed" style="width: 720px; height: 480px; border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; max-width: 100%;">
+<p style="padding: 0; margin: 0; width: 100%; height: 100%;"><iframe width="100" height="100" style="width: 100%; height: 100%; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ohuupc95u5h9kpwd?play=1" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write;clipboard-read" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104454797-ol25yur0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de este proyecto se utilizarán diferentes recursos digitales adaptados al alumnado del aula específica.</p>\n<p>Los materiales seleccionados facilitan:</p>\n<ul>\n<li>La accesibilidad.</li>\n<li>La comunicación visual.</li>\n<li>El aprendizaje manipulativo.</li>\n<li>La participación activa.<br /></li>\n</ul>\n<p>Se utilizarán recursos como:</p>\n<ul>\n<li>ARASAAC.</li>\n<li>Vídeos educativos;</li>\n<li>Wordwall.</li>\n<li>LearningApps.</li>\n<li>Canva.</li>\n<li>Padlet.</li>\n</ul>\n<div class=\"padlet-embed\" style=\"width: 720px; height: 480px; border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; max-width: 100%;\">\n<p style=\"padding: 0; margin: 0; width: 100%; height: 100%;\"><iframe width=\"100\" height=\"100\" style=\"width: 100%; height: 100%; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ohuupc95u5h9kpwd?play=1\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write;clipboard-read\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx1-zi7nzaoy1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades y temporalización</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx1-zi7nzaoy1</odePageId>
+      <odeBlockId>block-1778104736310-jrdy9f0b8</odeBlockId>
+      <blockName>Organización del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx1-zi7nzaoy1</odePageId>
+          <odeBlockId>block-1778104736310-jrdy9f0b8</odeBlockId>
+          <odeIdeviceId>idevice-1778104736306-1d8qkaujd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se desarrollará mediante diferentes sesiones organizadas de forma progresiva y adaptadas a las necesidades del alumnado.</p>
+<p>Las actividades combinarán:</p>
+<ul>
+<li>Trabajo manipulativo.</li>
+<li>Apoyos visuales.</li>
+<li>Herramientas digitales.</li>
+<li>Actividades individuales y grupales.<img src="{{context_path}}/content/resources/Captura de pantalla (111).png" width="1280" height="742" alt="" /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104736306-1d8qkaujd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se desarrollará mediante diferentes sesiones organizadas de forma progresiva y adaptadas a las necesidades del alumnado.</p>\n<p>Las actividades combinarán:</p>\n<ul>\n<li>Trabajo manipulativo.</li>\n<li>Apoyos visuales.</li>\n<li>Herramientas digitales.</li>\n<li>Actividades individuales y grupales.<img src=\"{{context_path}}/content/resources/Captura de pantalla (111).png\" width=\"1280\" height=\"742\" alt=\"\" /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx1-i6qwg30gu</odePageId>
+  <odeParentPageId>page-movpbpx1-zi7nzaoy1</odeParentPageId>
+  <pageName>Sesión 1 — Descubrimos emociones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1 — Descubrimos emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1 — Descubrimos emociones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx1-i6qwg30gu</odePageId>
+      <odeBlockId>block-1778171652296-w0goeasoi</odeBlockId>
+      <blockName>Descubrimos emociones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx1-i6qwg30gu</odePageId>
+          <odeBlockId>block-1778171652296-w0goeasoi</odeBlockId>
+          <odeIdeviceId>idevice-1778171652293-pbcx5j9sl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado visualizará vídeos sobre emociones básicas y participará en conversaciones guiadas para expresar cómo se siente en diferentes situaciones.</p>
+<p>Objetivos:</p>
+<ul>
+<li>Identificar emociones básicas.</li>
+<li>Expresar emociones.</li>
+<li>Participar en actividades grupales.</li>
+</ul>
+<p><br />Herramientas digitales:</p>
+<ul>
+<li>Vídeos educativos.</li>
+<li>Pizarra digital.</li>
+<li>Pictogramas ARASAAC.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171652293-pbcx5j9sl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado visualizará vídeos sobre emociones básicas y participará en conversaciones guiadas para expresar cómo se siente en diferentes situaciones.</p>\n<p>Objetivos:</p>\n<ul>\n<li>Identificar emociones básicas.</li>\n<li>Expresar emociones.</li>\n<li>Participar en actividades grupales.</li>\n</ul>\n<p><br />Herramientas digitales:</p>\n<ul>\n<li>Vídeos educativos.</li>\n<li>Pizarra digital.</li>\n<li>Pictogramas ARASAAC.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx2-4kf40j9ga</odePageId>
+  <odeParentPageId>page-movpbpx1-zi7nzaoy1</odeParentPageId>
+  <pageName>Sesión 2 — Reconocemos emociones con pictogramas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2 — Reconocemos emociones con pictogramas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2 — Reconocemos emociones con pictogramas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx2-4kf40j9ga</odePageId>
+      <odeBlockId>block-1778171859937-x085hehrn</odeBlockId>
+      <blockName>Reconocemos emociones con pictogramas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx2-4kf40j9ga</odePageId>
+          <odeBlockId>block-1778171859937-x085hehrn</odeBlockId>
+          <odeIdeviceId>idevice-1778171859934-s3n3q4htj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta sesión el alumnado relacionará emociones con pictogramas y aprenderá a utilizarlos para comunicarse en diferentes situaciones del aula.</p>
+<p style="text-align: justify;">Las actividades estarán adaptadas mediante apoyos visuales y dinámicas manipulativas que faciliten la comprensión emocional y la comunicación.</p>
+<p>Objetivos: <br /></p>
+<ul>
+<li>Comprender emociones básicas.</li>
+<li>Utilizar pictogramas para comunicarse.</li>
+<li>Asociar imágenes con emociones.</li>
+<li>Participar en actividades grupales.</li>
+</ul>
+<p>Agrupamiento: Pequeños grupos.</p>
+<p style="text-align: justify;">Herramientas digitales:</p>
+<ul>
+<li style="text-align: justify;">ARASAAC.</li>
+<li style="text-align: justify;">Tablet.</li>
+<li style="text-align: justify;">Pizarra digital.</li>
+</ul>
+<p>Recursos utilizados:</p>
+<ul>
+<li style="text-align: justify;">Banco de pictogramas.</li>
+<li style="text-align: justify;">Tarjetas visuales.</li>
+<li style="text-align: justify;">Recursos visuales adaptados</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171859934-s3n3q4htj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta sesión el alumnado relacionará emociones con pictogramas y aprenderá a utilizarlos para comunicarse en diferentes situaciones del aula.</p>\n<p style=\"text-align: justify;\">Las actividades estarán adaptadas mediante apoyos visuales y dinámicas manipulativas que faciliten la comprensión emocional y la comunicación.</p>\n<p>Objetivos: <br /></p>\n<ul>\n<li>Comprender emociones básicas.</li>\n<li>Utilizar pictogramas para comunicarse.</li>\n<li>Asociar imágenes con emociones.</li>\n<li>Participar en actividades grupales.</li>\n</ul>\n<p>Agrupamiento: Pequeños grupos.</p>\n<p style=\"text-align: justify;\">Herramientas digitales:</p>\n<ul>\n<li style=\"text-align: justify;\">ARASAAC.</li>\n<li style=\"text-align: justify;\">Tablet.</li>\n<li style=\"text-align: justify;\">Pizarra digital.</li>\n</ul>\n<p>Recursos utilizados:</p>\n<ul>\n<li style=\"text-align: justify;\">Banco de pictogramas.</li>\n<li style=\"text-align: justify;\">Tarjetas visuales.</li>\n<li style=\"text-align: justify;\">Recursos visuales adaptados</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx2-nkc5a6okr</odePageId>
+  <odeParentPageId>page-movpbpx1-zi7nzaoy1</odeParentPageId>
+  <pageName>Sesión 3 — Practicamos con juegos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3 — Practicamos con juegos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3 — Practicamos con juegos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx2-nkc5a6okr</odePageId>
+      <odeBlockId>block-1778171950634-1abql9sb7</odeBlockId>
+      <blockName>Practicamos con juegos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx2-nkc5a6okr</odePageId>
+          <odeBlockId>block-1778171950634-1abql9sb7</odeBlockId>
+          <odeIdeviceId>idevice-1778171950629-9g2vwcqxz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado realizará actividades interactivas para reforzar el reconocimiento de emociones mediante juegos digitales adaptados.</p>
+<p>Las actividades permitirán trabajar la atención, la comunicación y la identificación emocional de forma motivadora y visual.</p>
+<p>Objetivos:</p>
+<ul>
+<li>Reforzar el reconocimiento de emociones.</li>
+<li>Participar en actividades digitales.</li>
+<li>Utilizar herramientas tecnológicas adaptadas.</li>
+<li>Mejorar la atención y la interacción.<br /></li>
+</ul>
+<p>Agrupamiento: Trabajo individual con apoyo docente.</p>
+<p>Herramientas digitales:</p>
+<ul>
+<li>Wordwall.</li>
+<li>LearningApps.</li>
+<li>Tablets del aula.</li>
+</ul>
+<p>Recursos utilizados:</p>
+<ul>
+<li>Juegos interactivos.</li>
+<li>Actividades visuales.</li>
+<li>Recursos digitales adaptados.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171950629-9g2vwcqxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado realizará actividades interactivas para reforzar el reconocimiento de emociones mediante juegos digitales adaptados.</p>\n<p>Las actividades permitirán trabajar la atención, la comunicación y la identificación emocional de forma motivadora y visual.</p>\n<p>Objetivos:</p>\n<ul>\n<li>Reforzar el reconocimiento de emociones.</li>\n<li>Participar en actividades digitales.</li>\n<li>Utilizar herramientas tecnológicas adaptadas.</li>\n<li>Mejorar la atención y la interacción.<br /></li>\n</ul>\n<p>Agrupamiento: Trabajo individual con apoyo docente.</p>\n<p>Herramientas digitales:</p>\n<ul>\n<li>Wordwall.</li>\n<li>LearningApps.</li>\n<li>Tablets del aula.</li>\n</ul>\n<p>Recursos utilizados:</p>\n<ul>\n<li>Juegos interactivos.</li>\n<li>Actividades visuales.</li>\n<li>Recursos digitales adaptados.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx2-0ukuzxhlf</odePageId>
+  <odeParentPageId>page-movpbpx1-zi7nzaoy1</odeParentPageId>
+  <pageName>Sesión 4 — Creamos nuestro recurso visual</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4 — Creamos nuestro recurso visual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4 — Creamos nuestro recurso visual</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx2-0ukuzxhlf</odePageId>
+      <odeBlockId>block-1778172130586-bh81pdz3l</odeBlockId>
+      <blockName>Creamos nuestro recurso visual</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx2-0ukuzxhlf</odePageId>
+          <odeBlockId>block-1778172130586-bh81pdz3l</odeBlockId>
+          <odeIdeviceId>idevice-1778172130583-bd4uvqvwj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta sesión el alumnado elaborará una infografía o presentación sencilla sobre emociones utilizando pictogramas, imágenes y herramientas digitales.</p>
+<p style="text-align: justify;">Cada grupo creará un recurso visual adaptado donde representará diferentes emociones mediante apoyos visuales y recursos digitales accesibles.</p>
+<p style="text-align: justify;">Objetivos<br /></p>
+<ul>
+<li style="text-align: justify;">Expresar emociones mediante recursos visuales.</li>
+<li style="text-align: justify;">Utilizar herramientas digitales creativas.</li>
+<li style="text-align: justify;">Trabajar la comunicación visual.</li>
+<li style="text-align: justify;">Fomentar la creatividad y la participación.<br /></li>
+</ul>
+<p style="text-align: justify;">Agrupamiento: Pequeños grupos.</p>
+<p style="text-align: justify;">Herramientas digitales<br /></p>
+<ul>
+<li style="text-align: justify;">Canva.</li>
+<li style="text-align: justify;">Genially.<br /></li>
+</ul>
+<p style="text-align: justify;">Recursos utilizados<br /></p>
+<ul>
+<li style="text-align: justify;">Pictogramas ARASAAC.</li>
+<li style="text-align: justify;">Imágenes educativas.</li>
+<li style="text-align: justify;">Recursos visuales adaptados</li>
+</ul>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?utm_content=DAHDcyAD5BA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentación de Proyecto Creativo Retro Rosa</a> de Avallop2106</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172130583-bd4uvqvwj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta sesión el alumnado elaborará una infografía o presentación sencilla sobre emociones utilizando pictogramas, imágenes y herramientas digitales.</p>\n<p style=\"text-align: justify;\">Cada grupo creará un recurso visual adaptado donde representará diferentes emociones mediante apoyos visuales y recursos digitales accesibles.</p>\n<p style=\"text-align: justify;\">Objetivos<br /></p>\n<ul>\n<li style=\"text-align: justify;\">Expresar emociones mediante recursos visuales.</li>\n<li style=\"text-align: justify;\">Utilizar herramientas digitales creativas.</li>\n<li style=\"text-align: justify;\">Trabajar la comunicación visual.</li>\n<li style=\"text-align: justify;\">Fomentar la creatividad y la participación.<br /></li>\n</ul>\n<p style=\"text-align: justify;\">Agrupamiento: Pequeños grupos.</p>\n<p style=\"text-align: justify;\">Herramientas digitales<br /></p>\n<ul>\n<li style=\"text-align: justify;\">Canva.</li>\n<li style=\"text-align: justify;\">Genially.<br /></li>\n</ul>\n<p style=\"text-align: justify;\">Recursos utilizados<br /></p>\n<ul>\n<li style=\"text-align: justify;\">Pictogramas ARASAAC.</li>\n<li style=\"text-align: justify;\">Imágenes educativas.</li>\n<li style=\"text-align: justify;\">Recursos visuales adaptados</li>\n</ul>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHDcyAD5BA/6oo8_3c9VRQ2QxPMsEzadg/view?utm_content=DAHDcyAD5BA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Presentación de Proyecto Creativo Retro Rosa</a> de Avallop2106</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movpbpx2-ak6pipbgx</odePageId>
+  <odeParentPageId>page-movpbpx1-zi7nzaoy1</odeParentPageId>
+  <pageName>Sesión 5 — Presentamos nuestro trabajo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5 — Presentamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 5 — Presentamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movpbpx2-ak6pipbgx</odePageId>
+      <odeBlockId>block-1778172334189-knivqbsbe</odeBlockId>
+      <blockName>Presentamos nuestro trabajo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movpbpx2-ak6pipbgx</odePageId>
+          <odeBlockId>block-1778172334189-knivqbsbe</odeBlockId>
+          <odeIdeviceId>idevice-1778172334186-hhn7954pc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta sesión el alumnado presentará al resto de la clase el recurso visual elaborado durante el proyecto.</p>
+<p style="text-align: justify;">La presentación favorecerá la expresión emocional, la comunicación y la interacción social mediante apoyos visuales y herramientas digitales.</p>
+<p style="text-align: justify;">Objetivos:</p>
+<ul>
+<li style="text-align: justify;">Compartir el aprendizaje realizado.</li>
+<li style="text-align: justify;">Expresar emociones de forma visual.</li>
+<li style="text-align: justify;">Participar en actividades grupales.</li>
+<li style="text-align: justify;">Mejorar la comunicación y la interacción social.<br /></li>
+</ul>
+<p style="text-align: justify;">Agrupamiento: Gran grupo.</p>
+<p style="text-align: justify;">Herramientas digitales:<br /></p>
+<ul>
+<li style="text-align: justify;">Pizarra digital.</li>
+<li style="text-align: justify;">Presentaciones creadas por el alumnado.<br /></li>
+</ul>
+<p style="text-align: justify;">Recursos utilizados:</p>
+<ul>
+<li style="text-align: justify;">Recursos visuales.</li>
+<li style="text-align: justify;">Pictogramas.</li>
+<li style="text-align: justify;">Presentaciones digitales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172334186-hhn7954pc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta sesión el alumnado presentará al resto de la clase el recurso visual elaborado durante el proyecto.</p>\n<p style=\"text-align: justify;\">La presentación favorecerá la expresión emocional, la comunicación y la interacción social mediante apoyos visuales y herramientas digitales.</p>\n<p style=\"text-align: justify;\">Objetivos:</p>\n<ul>\n<li style=\"text-align: justify;\">Compartir el aprendizaje realizado.</li>\n<li style=\"text-align: justify;\">Expresar emociones de forma visual.</li>\n<li style=\"text-align: justify;\">Participar en actividades grupales.</li>\n<li style=\"text-align: justify;\">Mejorar la comunicación y la interacción social.<br /></li>\n</ul>\n<p style=\"text-align: justify;\">Agrupamiento: Gran grupo.</p>\n<p style=\"text-align: justify;\">Herramientas digitales:<br /></p>\n<ul>\n<li style=\"text-align: justify;\">Pizarra digital.</li>\n<li style=\"text-align: justify;\">Presentaciones creadas por el alumnado.<br /></li>\n</ul>\n<p style=\"text-align: justify;\">Recursos utilizados:</p>\n<ul>\n<li style=\"text-align: justify;\">Recursos visuales.</li>\n<li style=\"text-align: justify;\">Pictogramas.</li>\n<li style=\"text-align: justify;\">Presentaciones digitales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778172529154-fopqmthfi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778172529154-fopqmthfi</odePageId>
+      <odeBlockId>block-1778172535361-kagim3077</odeBlockId>
+      <blockName>Evaluación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172529154-fopqmthfi</odePageId>
+          <odeBlockId>block-1778172535361-kagim3077</odeBlockId>
+          <odeIdeviceId>idevice-1778172535356-z62v66dc1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La evaluación será continua, global y adaptada a las características del alumnado del aula específica.</p>
+<p style="text-align: justify;">Se utilizarán diferentes instrumentos de evaluación para recoger información sobre:</p>
+<ul>
+<li style="text-align: justify;">Reconocimiento de emociones.</li>
+<li style="text-align: justify;">Uso de pictogramas.</li>
+<li style="text-align: justify;">Participación.</li>
+<li style="text-align: justify;">Comunicación.</li>
+<li style="text-align: justify;">Uso de herramientas digitales.</li>
+</ul>
+<p><a href="{{context_path}}/content/resources/Evaluación del proyecto.pdf" title="Evaluación del proyecto.pdf">{{context_path}}/content/resources/Evaluación del proyecto.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172535356-z62v66dc1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La evaluación será continua, global y adaptada a las características del alumnado del aula específica.</p>\n<p style=\"text-align: justify;\">Se utilizarán diferentes instrumentos de evaluación para recoger información sobre:</p>\n<ul>\n<li style=\"text-align: justify;\">Reconocimiento de emociones.</li>\n<li style=\"text-align: justify;\">Uso de pictogramas.</li>\n<li style=\"text-align: justify;\">Participación.</li>\n<li style=\"text-align: justify;\">Comunicación.</li>\n<li style=\"text-align: justify;\">Uso de herramientas digitales.</li>\n</ul>\n<p><a href=\"{{context_path}}/content/resources/Evaluación del proyecto.pdf\" title=\"Evaluación del proyecto.pdf\">{{context_path}}/content/resources/Evaluación del proyecto.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778173865564-s47ala7fz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778173865564-s47ala7fz</odePageId>
+      <odeBlockId>block-1778173873131-b78g4wp77</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778173865564-s47ala7fz</odePageId>
+          <odeBlockId>block-1778173873131-b78g4wp77</odeBlockId>
+          <odeIdeviceId>idevice-1778173873123-uk8145f9x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Nivel educativo</strong><br />Aula específica / Educación Especial.</p>
+<p><strong>Competencias trabajadas:</strong><br /></p>
+<ul>
+<li>Competencia digital.</li>
+<li>Competencia en comunicación lingüística.</li>
+<li>Competencia personal y social.</li>
+</ul>
+<p><strong>Diseño Universal para el Aprendizaje (DUA)</strong><br /><strong></strong></p>
+<p><strong>Representación</strong><br />Uso de pictogramas, imágenes y apoyos visuales.</p>
+<p><strong>Acción y expresión</strong><br />Expresión emocional mediante recursos visuales y digitales.</p>
+<p><strong>Implicación</strong><br />Actividades motivadoras adaptadas al alumnado.</p>
+<p><strong>Atención a la diversidad</strong><br />Las actividades se adaptarán a los diferentes ritmos y necesidades del alumnado mediante apoyos visuales y herramientas accesibles.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173873123-uk8145f9x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nivel educativo</strong><br />Aula específica / Educación Especial.</p>\n<p><strong>Competencias trabajadas:</strong><br /></p>\n<ul>\n<li>Competencia digital.</li>\n<li>Competencia en comunicación lingüística.</li>\n<li>Competencia personal y social.</li>\n</ul>\n<p><strong>Diseño Universal para el Aprendizaje (DUA)</strong><br /><strong></strong></p>\n<p><strong>Representación</strong><br />Uso de pictogramas, imágenes y apoyos visuales.</p>\n<p><strong>Acción y expresión</strong><br />Expresión emocional mediante recursos visuales y digitales.</p>\n<p><strong>Implicación</strong><br />Actividades motivadoras adaptadas al alumnado.</p>\n<p><strong>Atención a la diversidad</strong><br />Las actividades se adaptarán a los diferentes ritmos y necesidades del alumnado mediante apoyos visuales y herramientas accesibles.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778173999341-1376jnwqj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778173999341-1376jnwqj</odePageId>
+      <odeBlockId>block-1778174001953-p5ytkm7w7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778173999341-1376jnwqj</odePageId>
+          <odeBlockId>block-1778174001953-p5ytkm7w7</odeBlockId>
+          <odeIdeviceId>idevice-1778174001948-ndcvlqrpn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Ana Valenzuela López</p>
+<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA</p>
+<p><strong>Recursos utilizados</strong><br /></p>
+<ul>
+<li>ARASAAC</li>
+<li>Canva</li>
+<li>Padlet</li>
+<li>Wordwall</li>
+<li>LearningApps</li>
+<li>YouTube</li>
+</ul>
+<p><strong>Descripción</strong></p>
+<p>Proyecto educativo dirigido al alumnado del aula específica para trabajar emociones y comunicación mediante pictogramas y herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174001948-ndcvlqrpn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Ana Valenzuela López</p>\n<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA</p>\n<p><strong>Recursos utilizados</strong><br /></p>\n<ul>\n<li>ARASAAC</li>\n<li>Canva</li>\n<li>Padlet</li>\n<li>Wordwall</li>\n<li>LearningApps</li>\n<li>YouTube</li>\n</ul>\n<p><strong>Descripción</strong></p>\n<p>Proyecto educativo dirigido al alumnado del aula específica para trabajar emociones y comunicación mediante pictogramas y herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
